@@ -1,0 +1,11 @@
+/.github
+/.ipynb_checkpoints
+/__pycache__
+/data/samples/j4MOD_2020-03-05_21_10_45.mp4
+/ej
+/test
+/texto
+/train
+/weights
+test.zip
+train.zip
